@@ -3,10 +3,11 @@ Embark on an enchanting journey in the magical world of Monsteria, where adventu
 
 Restore the magical portal and unlock new worlds! Visit the Mysterious Cave to mine ores and gather crystals, or head to the Magical Lake to fish for extraordinary creatures. Use resources to level up your character and evolve your monsters to make them even stronger.
 
-Monsteria offers:
+Initial project setup for "Monsteria" game
 
-A 12-sided dice roll mechanic to obtain monsters.
-Scrolls and potions to enhance your chances.
-Daily quests, rewards, and achievements.
-The ability to complete your monster collection and earn exclusive bonuses.
-Compete, explore, and create your strategy in this magical adventure! Are you ready to become a hero in Monsteria? 🧙✨
+- Added main .rbxl file of the project.
+- Implemented pet selection system using PetSelectionHandler.
+- Developed PetFollowScript for pet movement and added integration with PetManager.
+- Organized modules: PetManager, UIManager, and other core scripts.
+- Configured GUI for pet selection (Cat, Dog, Mole).
+- Added datastore integration for saving and loading pet selections.
